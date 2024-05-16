@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAGTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9312f631c59169ec174a62dfd73ab11b8a1584d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAGTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAGTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
